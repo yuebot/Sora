@@ -1,0 +1,3 @@
+.upm/
+node_modules/
+includes/SoraDB/data/sora.sqlite

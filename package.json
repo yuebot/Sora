@@ -1,0 +1,32 @@
+{
+  "name": "Sora",
+  "version": "1.0.0",
+  "description": "YSD: Sora",
+  "main": "Sora.js",
+  "scripts": {
+    "start": "node Sora.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/yuebot/Sora"
+  },
+  "keywords": [
+    "Sora",
+    "YSD",
+    "Yue"
+  ],
+  "author": "Rui Reogo (ruingl)",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "fca-unofficial": "github:fca-unofficial/fca-unofficial",
+    "font-style": "^1.1.0",
+    "fs-extra": "^11.2.0",
+    "libxmljs": "^1.0.11",
+    "mqtt": "3.0.0",
+    "node-gyp": "^10.0.1",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7"
+  }
+}
